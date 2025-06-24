@@ -24,11 +24,6 @@
 
 package com.alibaba.android.vlayout.layout;
 
-import android.support.annotation.NonNull;
-import android.support.v4.util.ArrayMap;
-import android.support.v7.widget.RecyclerView;
-import android.support.v7.widget.RecyclerView.Recycler;
-import android.support.v7.widget.RecyclerView.State;
 import android.util.Log;
 import android.view.View;
 
@@ -45,7 +40,6 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-import static android.support.v7.widget.LinearLayoutManager.VERTICAL;
 
 /**
  * LayoutHelper provides RangeGridLayoutHelper. The difference with {@link GridLayoutHelper} is that this layoutHelper could has child group logically but implemented as flat.

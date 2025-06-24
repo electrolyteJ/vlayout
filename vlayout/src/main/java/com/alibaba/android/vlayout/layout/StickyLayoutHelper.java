@@ -24,8 +24,6 @@
 
 package com.alibaba.android.vlayout.layout;
 
-import android.support.annotation.Nullable;
-import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 import android.view.View;
 
@@ -36,8 +34,6 @@ import com.alibaba.android.vlayout.VirtualLayoutManager;
 import com.alibaba.android.vlayout.VirtualLayoutManager.LayoutStateWrapper;
 
 import java.util.List;
-
-import static android.support.v7.widget.LinearLayoutManager.VERTICAL;
 
 
 /**

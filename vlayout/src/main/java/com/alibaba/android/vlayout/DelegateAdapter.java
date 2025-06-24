@@ -24,9 +24,6 @@
 
 package com.alibaba.android.vlayout;
 
-import android.support.annotation.NonNull;
-import android.support.annotation.Nullable;
-import android.support.v7.widget.RecyclerView;
 import android.util.Pair;
 import android.util.SparseArray;
 import android.view.View;
@@ -41,7 +38,6 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.concurrent.atomic.AtomicInteger;
 
-import static android.support.v7.widget.RecyclerView.NO_ID;
 
 /**
  * Adapter delegates its responsibility to sub adapters

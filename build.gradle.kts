@@ -22,5 +22,15 @@
  * SOFTWARE.
  */
 
-include ':vlayout'
-include ':examples'
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+
+plugins {
+    alias(libs.plugins.android.application) apply false
+    alias(libs.plugins.android.library) apply false
+//    id("com.github.xfumihiro.view-inspector:view-inspector-plugin:0.1.1") apply false
+//    id("com.jfrog.bintray.gradle:gradle-bintray-plugin:1.4") apply false
+//    id("com.github.dcendents:android-maven-gradle-plugin:1.5") apply false
+//    id("org.jfrog.buildinfo:build-info-extractor-gradle:4.0.0") apply false
+}
+

@@ -24,9 +24,6 @@
 
 package com.alibaba.android.vlayout;
 
-import android.support.annotation.NonNull;
-import android.support.v7.widget.RecyclerView;
-
 import java.util.List;
 
 /**

@@ -25,7 +25,6 @@
 package com.alibaba.android.vlayout;
 
 import android.os.Build;
-import android.support.annotation.NonNull;
 
 import java.util.Arrays;
 import java.util.Objects;

@@ -1,6 +1,5 @@
 package com.alibaba.android.vlayout.extend;
 
-import android.support.annotation.Keep;
 import android.view.View;
 
 /**

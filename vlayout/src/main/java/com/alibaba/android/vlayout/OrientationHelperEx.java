@@ -1,6 +1,5 @@
 package com.alibaba.android.vlayout;
 
-import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.widget.LinearLayout;
 

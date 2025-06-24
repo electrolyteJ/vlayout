@@ -24,9 +24,6 @@
 
 package com.alibaba.android.vlayout;
 
-import android.support.annotation.Nullable;
-import android.support.v7.widget.OrientationHelper;
-import android.support.v7.widget.RecyclerView;
 import android.view.View;
 
 /**
